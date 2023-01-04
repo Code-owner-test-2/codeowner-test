@@ -1,3 +1,3 @@
 const func1 = () => {
-    console.log("componexsxnt1");
+    console.log("compoxsnexsxnt1");
 } 
